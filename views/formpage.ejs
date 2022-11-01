@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= context %> Page</title>
+</head>
+<body>
+    <h1 style="text-align: center;"><%= context %> Referral Code</h1>
+    <% if (context === 'Edit') { %>
+      <form action="/<%= data.id %>/edit " method="POST">
+        <label for="code">Referral Code</label>
+        <input type="text" name="code" placeholder="Enter Referral Code" value="<%= data.code %>">
+        <label for="code">Description</label>
+        <input type="text" name="description" placeholder="Enter Description" value="<%= data.description %>">
+        <label for="code">Type</label>
+        <input type="text" name="type" placeholder="Enter Type" value="<%= data.type %>">
+        <button type="submit">Edit</button>
+      </form>
+      <% } %>
+</body>
+</html>

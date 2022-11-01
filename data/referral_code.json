@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "code": "INFT3",
+        "description": "THIS IS FROM ADITYA COMPANY",
+        "type": "PARTNER",
+        "createdBy": "Rio Welfanelo"
+    },
+    {
+        "id": "2",
+        "code": "RET3",
+        "description": "TEST",
+        "type": "FACEBOOK",
+        "createdBy": "Shannon Christopher"
+    },
+    {
+        "id": "3",
+        "code": "BROTHERHOODZZ",
+        "description": "FOOD GRADE",
+        "type": "BROTHERHOODZZ",
+        "createdBy": "Aditya Bharata"
+    },
+    {
+        "id": "4",
+        "code": "HAI",
+        "description": "DISCOUNT",
+        "type": "FOOD",
+        "createdBy": "Veronika Djuliana"
+    },
+    {
+        "id": "5",
+        "code": "FOODMANIA",
+        "description": "FOOD DISCOUNT",
+        "type": "FOOD",
+        "createdBy": "Veronika Djuliana"
+    },
+    {
+        "id": "6",
+        "code": "BUTTER",
+        "description": "SMOOTH LIKE BUTTER",
+        "type": "FOOD",
+        "createdBy": "Veronika Djuliana"
+    },
+    {
+        "id": "7",
+        "code": "SAUSAGE",
+        "description": "FOOD",
+        "type": "FOOD",
+        "createdBy": "Veronika Djuliana"
+    },
+    {
+        "id": "8",
+        "code": "MANTAN",
+        "description": "JIWA",
+        "type": "TIDAK",
+        "createdBy": "Rio Alexander"
+    },
+    {
+        "id": "9",
+        "code": "KAYA",
+        "description": "MISKIN",
+        "type": "BIASA",
+        "createdBy": "Rio Alexander"
+    },
+    {
+        "id": "10",
+        "code": "GUUDGSTFIN",
+        "description": "GUUD CLIENTS",
+        "type": "CASHLINE",
+        "createdBy": "Aditya Bharata"
+    }
+]
